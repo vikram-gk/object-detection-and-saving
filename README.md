@@ -23,15 +23,15 @@ To install above packages:
 How to run :
 
 
-make sure all the files and folder are in same directory
+-make sure all the files and folder are in same directory
 
 
-python3 test_frcnn.py -p /path_of_the_folder_containg_images(sample_dataset)/
+-python3 test_frcnn.py -p /path_of_the_folder_containg_images(sample_dataset)/
 
 
-after running these code u get a file named data.pkl(where the objects of the images get dumped)
+-after running these code u get a file named data.pkl(where the objects of the images get dumped)
 
 
-Finally to know the objects run (python3 display.py)
+-Finally to know the objects run (python3 display.py)
    
   
